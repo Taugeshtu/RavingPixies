@@ -1,0 +1,3 @@
+[submodule "Firmware"]
+	path = Firmware
+	url = git@github.com:Taugeshtu/RavingPixies_firmware.git
